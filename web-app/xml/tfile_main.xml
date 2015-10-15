@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<content>
+	<gallery folder="flash/images/">
+		<item imageUrl="tfile_image_1.png" linkUrl="../Logistic/user/registration">
+			<title><![CDATA[<i><b><font face="Arial" letterspacing="0" size="24">РЕГИСТРАЦИЯ</font></b></i>]]></title>
+		</item>
+	
+		<item imageUrl="tfile_image_2.png" linkUrl="asfunction:link">
+			<title><![CDATA[<i><b><font face="Arial" letterspacing="0" size="24">АВТОРИЗАЦИЯ</font></b></i>]]></title>
+		</item>
+	
+		<item imageUrl="tfile_image_3.png" linkUrl="asfunction:link">
+			<title><![CDATA[<i><b><font face="Arial" letterspacing="0" size="24">КАК РАБОТАЕТ<br>GPS-СЛЕЖЕНИЕ</font></b></i>]]></title>
+		</item>
+	</gallery>
+</content>

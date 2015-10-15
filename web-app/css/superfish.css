@@ -1,0 +1,38 @@
+nav {padding:0}
+.sf-menu {padding:0; margin-left:0px; float:right; position:relative; z-index:999;}
+.sf-menu li {
+	background: transparent none no-repeat scroll 0 0;
+	float:left;
+	position:relative;
+	font:normal 12px/15px Arial;	
+	display:inline-block;
+	margin:0;
+	text-transform:uppercase;
+	text-align:center;
+	text-shadow: 1px 1px 1px rgba(0,0,0,.5);
+}
+.sf-menu a {	
+	display:inline-block;
+	position:relative;	
+	color:#fff;
+	text-decoration:none; 
+	margin-top:0px;
+	padding:43px 0px 47px 0px;
+	width:116px;
+	-webkit-transition: all 0.5s ease;
+	-moz-transition: all 0.5s ease;
+	-o-transition: all 0.5s ease;
+/* 	-webkit-box-reflect: below 0px -webkit-gradient(linear, left top, left bottom, from(transparent), color-stop(.7, transparent), to(rgba(0,0,0,0.1)));*/
+}
+.sf-menu .last {margin-right:0px;}
+.sf-menu .last1 {background:none;}
+.sf-menu .li-right {margin-right:-9px;}
+.sf-menu > li.sfHover > a, .sf-menu > li a:hover, .sf-menu > li.current a {text-shadow: 0px 1px 1px rgba(0,0,0,.3), 0px 0px 6px rgba(255,255,255,.8)}
+.sf-menu li:hover, .sf-menu li.current, .sf-menu li.sfHover { 
+	background: url("../images/a-bg.png") no-repeat 0 0; 
+	-webkit-transition: all 5s ease;
+	-moz-transition: all 5s ease;
+	-o-transition: all 5s ease;
+	transition: all 5s ease;
+/*	-webkit-box-reflect: below 0px -webkit-gradient(linear, left top, left bottom, from(transparent), color-stop(.7, transparent), to(rgba(0,0,0,0.1)));*/
+}

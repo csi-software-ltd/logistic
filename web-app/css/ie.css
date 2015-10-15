@@ -1,0 +1,19 @@
+*+html{overflow:auto;}
+.layouts-nav li a,.sf-menu>li.first,.sf-menu>li.last{behavior:url(../js/PIE.htc)}
+.list-1 li>span:first-child+span,.list-1 li a>span,footer a>span{filter:alpha(opacity=0)}
+
+input.button[type="submit"],input.button[type="reset"],input.button[type="button"],a.button{padding:8px 10px}
+
+.Dropcap,time,.block,.button,
+input.button[type="submit"],input.button[type="reset"],input.button[type="button"],a.button,.button{
+	behavior:url(../js/PIE.htc);
+	position:relative;
+}
+.icon-1:hover img,.icon-2:hover img,.icon-3:hover img,.icon-4:hover img, .icon-5:hover img { filter:progid:DXImageTransform.Microsoft.Alpha(opacity=60);} 
+.button1, .border1, .border2, .box, .box1, .box3, .box4, .Dropcap, .box5, .block2, .box-iframe{
+	behavior: url(../js/PIE.htc);
+	position:relative;
+}
+.absolute-block, .absolute-block1, .absolute-block2, .absolute-block3, .absolute-block4, .absolute-block5, .absolute-block6{
+	behavior: url(../js/PIE.htc);
+}
